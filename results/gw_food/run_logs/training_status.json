@@ -1,0 +1,29 @@
+{
+    "GWAgent_Food": {
+        "checkpoints": [
+            {
+                "steps": 4991,
+                "file_path": "results\\gw_food\\GWAgent_Food\\GWAgent_Food-4991.onnx",
+                "reward": -49.98990137362853,
+                "creation_time": 1729244943.6574748,
+                "auxillary_file_paths": [
+                    "results\\gw_food\\GWAgent_Food\\GWAgent_Food-4991.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4991,
+            "file_path": "results\\gw_food\\GWAgent_Food.onnx",
+            "reward": -49.98990137362853,
+            "creation_time": 1729244943.6574748,
+            "auxillary_file_paths": [
+                "results\\gw_food\\GWAgent_Food\\GWAgent_Food-4991.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

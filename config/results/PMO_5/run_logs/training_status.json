@@ -1,0 +1,29 @@
+{
+    "PushMeOut": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\PMO_5\\PushMeOut\\PushMeOut-0.onnx",
+                "reward": null,
+                "creation_time": 1703074511.9675922,
+                "auxillary_file_paths": [
+                    "results\\PMO_5\\PushMeOut\\PushMeOut-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\PMO_5\\PushMeOut.onnx",
+            "reward": null,
+            "creation_time": 1703074511.9675922,
+            "auxillary_file_paths": [
+                "results\\PMO_5\\PushMeOut\\PushMeOut-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

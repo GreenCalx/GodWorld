@@ -1,0 +1,2 @@
+F:\GodWorld\GodWorld>
+mlagents-learn .\config\GW.yaml --run-id=GWPet --force

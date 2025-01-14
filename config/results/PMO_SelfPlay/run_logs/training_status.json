@@ -1,0 +1,66 @@
+{
+    "PushMeOut": {
+        "checkpoints": [
+            {
+                "steps": 2499926,
+                "file_path": "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-2499926.onnx",
+                "reward": 22.62012896537781,
+                "creation_time": 1703814929.8632758,
+                "auxillary_file_paths": [
+                    "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-2499926.pt"
+                ]
+            },
+            {
+                "steps": 2999463,
+                "file_path": "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-2999463.onnx",
+                "reward": 20.640134930610657,
+                "creation_time": 1703817503.2549386,
+                "auxillary_file_paths": [
+                    "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-2999463.pt"
+                ]
+            },
+            {
+                "steps": 3499763,
+                "file_path": "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-3499763.onnx",
+                "reward": 27.712562561035156,
+                "creation_time": 1703820113.2997022,
+                "auxillary_file_paths": [
+                    "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-3499763.pt"
+                ]
+            },
+            {
+                "steps": 3999496,
+                "file_path": "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-3999496.onnx",
+                "reward": 53.94954562187195,
+                "creation_time": 1703822709.1906314,
+                "auxillary_file_paths": [
+                    "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-3999496.pt"
+                ]
+            },
+            {
+                "steps": 4124993,
+                "file_path": "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-4124993.onnx",
+                "reward": null,
+                "creation_time": 1703823236.1515923,
+                "auxillary_file_paths": [
+                    "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-4124993.pt"
+                ]
+            }
+        ],
+        "elo": 467.91841697427185,
+        "final_checkpoint": {
+            "steps": 4124993,
+            "file_path": "results\\PMO_SelfPlay\\PushMeOut.onnx",
+            "reward": null,
+            "creation_time": 1703823236.1515923,
+            "auxillary_file_paths": [
+                "results\\PMO_SelfPlay\\PushMeOut\\PushMeOut-4124993.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Volleyball": {
+        "checkpoints": [
+            {
+                "steps": 499992,
+                "file_path": "results\\VB_4\\Volleyball\\Volleyball-499992.onnx",
+                "reward": 0.015795868718464782,
+                "creation_time": 1702988825.4622254,
+                "auxillary_file_paths": [
+                    "results\\VB_4\\Volleyball\\Volleyball-499992.pt"
+                ]
+            },
+            {
+                "steps": 999994,
+                "file_path": "results\\VB_4\\Volleyball\\Volleyball-999994.onnx",
+                "reward": 0.03587115657997166,
+                "creation_time": 1702989633.0931182,
+                "auxillary_file_paths": [
+                    "results\\VB_4\\Volleyball\\Volleyball-999994.pt"
+                ]
+            },
+            {
+                "steps": 1435094,
+                "file_path": "results\\VB_4\\Volleyball\\Volleyball-1435094.onnx",
+                "reward": 0.04428341375864838,
+                "creation_time": 1702990314.2864697,
+                "auxillary_file_paths": [
+                    "results\\VB_4\\Volleyball\\Volleyball-1435094.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1435094,
+            "file_path": "results\\VB_4\\Volleyball.onnx",
+            "reward": 0.04428341375864838,
+            "creation_time": 1702990314.2864697,
+            "auxillary_file_paths": [
+                "results\\VB_4\\Volleyball\\Volleyball-1435094.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "PushMeOut": {
+        "checkpoints": [
+            {
+                "steps": 499336,
+                "file_path": "results\\PMO\\PushMeOut\\PushMeOut-499336.onnx",
+                "reward": 143.14064542452493,
+                "creation_time": 1703984653.5011783,
+                "auxillary_file_paths": [
+                    "results\\PMO\\PushMeOut\\PushMeOut-499336.pt"
+                ]
+            },
+            {
+                "steps": 999892,
+                "file_path": "results\\PMO\\PushMeOut\\PushMeOut-999892.onnx",
+                "reward": 93.66660173734029,
+                "creation_time": 1703986172.860309,
+                "auxillary_file_paths": [
+                    "results\\PMO\\PushMeOut\\PushMeOut-999892.pt"
+                ]
+            },
+            {
+                "steps": 1499643,
+                "file_path": "results\\PMO\\PushMeOut\\PushMeOut-1499643.onnx",
+                "reward": 136.46367239952087,
+                "creation_time": 1703987822.5388448,
+                "auxillary_file_paths": [
+                    "results\\PMO\\PushMeOut\\PushMeOut-1499643.pt"
+                ]
+            },
+            {
+                "steps": 1650113,
+                "file_path": "results\\PMO\\PushMeOut\\PushMeOut-1650113.onnx",
+                "reward": 143.97860492359507,
+                "creation_time": 1703988275.9138706,
+                "auxillary_file_paths": [
+                    "results\\PMO\\PushMeOut\\PushMeOut-1650113.pt"
+                ]
+            }
+        ],
+        "elo": 933.6016415417548,
+        "final_checkpoint": {
+            "steps": 1650113,
+            "file_path": "results\\PMO\\PushMeOut.onnx",
+            "reward": 143.97860492359507,
+            "creation_time": 1703988275.9138706,
+            "auxillary_file_paths": [
+                "results\\PMO\\PushMeOut\\PushMeOut-1650113.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

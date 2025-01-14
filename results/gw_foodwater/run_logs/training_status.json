@@ -1,0 +1,56 @@
+{
+    "GWPet": {
+        "checkpoints": [
+            {
+                "steps": 499524,
+                "file_path": "results\\gw_foodwater\\GWPet\\GWPet-499524.onnx",
+                "reward": -35.20000663399696,
+                "creation_time": 1735645750.6673548,
+                "auxillary_file_paths": [
+                    "results\\gw_foodwater\\GWPet\\GWPet-499524.pt"
+                ]
+            },
+            {
+                "steps": 999294,
+                "file_path": "results\\gw_foodwater\\GWPet\\GWPet-999294.onnx",
+                "reward": null,
+                "creation_time": 1735649055.6063452,
+                "auxillary_file_paths": [
+                    "results\\gw_foodwater\\GWPet\\GWPet-999294.pt"
+                ]
+            },
+            {
+                "steps": 1499824,
+                "file_path": "results\\gw_foodwater\\GWPet\\GWPet-1499824.onnx",
+                "reward": null,
+                "creation_time": 1735654376.2398305,
+                "auxillary_file_paths": [
+                    "results\\gw_foodwater\\GWPet\\GWPet-1499824.pt"
+                ]
+            },
+            {
+                "steps": 1546954,
+                "file_path": "results\\gw_foodwater\\GWPet\\GWPet-1546954.onnx",
+                "reward": null,
+                "creation_time": 1735654693.7022345,
+                "auxillary_file_paths": [
+                    "results\\gw_foodwater\\GWPet\\GWPet-1546954.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1546954,
+            "file_path": "results\\gw_foodwater\\GWPet.onnx",
+            "reward": null,
+            "creation_time": 1735654693.7022345,
+            "auxillary_file_paths": [
+                "results\\gw_foodwater\\GWPet\\GWPet-1546954.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

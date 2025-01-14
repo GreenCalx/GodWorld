@@ -1,0 +1,65 @@
+{
+    "GWPet": {
+        "checkpoints": [
+            {
+                "steps": 499704,
+                "file_path": "results\\GWPet\\GWPet\\GWPet-499704.onnx",
+                "reward": -46.483334382375084,
+                "creation_time": 1736822397.0897024,
+                "auxillary_file_paths": [
+                    "results\\GWPet\\GWPet\\GWPet-499704.pt"
+                ]
+            },
+            {
+                "steps": 999954,
+                "file_path": "results\\GWPet\\GWPet\\GWPet-999954.onnx",
+                "reward": -47.066668351491295,
+                "creation_time": 1736825814.6600611,
+                "auxillary_file_paths": [
+                    "results\\GWPet\\GWPet\\GWPet-999954.pt"
+                ]
+            },
+            {
+                "steps": 1499964,
+                "file_path": "results\\GWPet\\GWPet\\GWPet-1499964.onnx",
+                "reward": -50.900001525878906,
+                "creation_time": 1736829240.5093231,
+                "auxillary_file_paths": [
+                    "results\\GWPet\\GWPet\\GWPet-1499964.pt"
+                ]
+            },
+            {
+                "steps": 1999364,
+                "file_path": "results\\GWPet\\GWPet\\GWPet-1999364.onnx",
+                "reward": -53.15000009536743,
+                "creation_time": 1736832665.023796,
+                "auxillary_file_paths": [
+                    "results\\GWPet\\GWPet\\GWPet-1999364.pt"
+                ]
+            },
+            {
+                "steps": 2000364,
+                "file_path": "results\\GWPet\\GWPet\\GWPet-2000364.onnx",
+                "reward": -53.15000009536743,
+                "creation_time": 1736832665.1419172,
+                "auxillary_file_paths": [
+                    "results\\GWPet\\GWPet\\GWPet-2000364.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000364,
+            "file_path": "results\\GWPet\\GWPet.onnx",
+            "reward": -53.15000009536743,
+            "creation_time": 1736832665.1419172,
+            "auxillary_file_paths": [
+                "results\\GWPet\\GWPet\\GWPet-2000364.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

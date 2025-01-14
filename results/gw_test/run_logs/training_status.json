@@ -1,0 +1,105 @@
+{
+    "GWAgent_Food": {
+        "checkpoints": [
+            {
+                "steps": 499079,
+                "file_path": "results\\gw_test\\GWAgent_Food\\GWAgent_Food-499079.onnx",
+                "reward": null,
+                "creation_time": 1729311333.8740919,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Food\\GWAgent_Food-499079.pt"
+                ]
+            },
+            {
+                "steps": 999193,
+                "file_path": "results\\gw_test\\GWAgent_Food\\GWAgent_Food-999193.onnx",
+                "reward": -49.995251092794206,
+                "creation_time": 1729320242.0430028,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Food\\GWAgent_Food-999193.pt"
+                ]
+            },
+            {
+                "steps": 1499811,
+                "file_path": "results\\gw_test\\GWAgent_Food\\GWAgent_Food-1499811.onnx",
+                "reward": null,
+                "creation_time": 1729329163.7726731,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Food\\GWAgent_Food-1499811.pt"
+                ]
+            },
+            {
+                "steps": 1790552,
+                "file_path": "results\\gw_test\\GWAgent_Food\\GWAgent_Food-1790552.onnx",
+                "reward": null,
+                "creation_time": 1729334422.5870197,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Food\\GWAgent_Food-1790552.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1790552,
+            "file_path": "results\\gw_test\\GWAgent_Food.onnx",
+            "reward": null,
+            "creation_time": 1729334422.5870197,
+            "auxillary_file_paths": [
+                "results\\gw_test\\GWAgent_Food\\GWAgent_Food-1790552.pt"
+            ]
+        }
+    },
+    "GWAgent_Water": {
+        "checkpoints": [
+            {
+                "steps": 499079,
+                "file_path": "results\\gw_test\\GWAgent_Water\\GWAgent_Water-499079.onnx",
+                "reward": null,
+                "creation_time": 1729311333.9996107,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Water\\GWAgent_Water-499079.pt"
+                ]
+            },
+            {
+                "steps": 999193,
+                "file_path": "results\\gw_test\\GWAgent_Water\\GWAgent_Water-999193.onnx",
+                "reward": 0.01589999921270646,
+                "creation_time": 1729320242.1594412,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Water\\GWAgent_Water-999193.pt"
+                ]
+            },
+            {
+                "steps": 1499811,
+                "file_path": "results\\gw_test\\GWAgent_Water\\GWAgent_Water-1499811.onnx",
+                "reward": null,
+                "creation_time": 1729329163.8904204,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Water\\GWAgent_Water-1499811.pt"
+                ]
+            },
+            {
+                "steps": 1790552,
+                "file_path": "results\\gw_test\\GWAgent_Water\\GWAgent_Water-1790552.onnx",
+                "reward": null,
+                "creation_time": 1729334422.6371834,
+                "auxillary_file_paths": [
+                    "results\\gw_test\\GWAgent_Water\\GWAgent_Water-1790552.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1790552,
+            "file_path": "results\\gw_test\\GWAgent_Water.onnx",
+            "reward": null,
+            "creation_time": 1729334422.6371834,
+            "auxillary_file_paths": [
+                "results\\gw_test\\GWAgent_Water\\GWAgent_Water-1790552.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
